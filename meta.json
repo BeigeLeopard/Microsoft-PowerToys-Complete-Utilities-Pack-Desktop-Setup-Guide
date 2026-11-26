@@ -1,0 +1,23 @@
+{
+  "repo": "microsoft-powertoys-complete-utilities-pack-desktop-setup-guide",
+  "product": "Microsoft PowerToys Complete Utilities Pack Desktop Setup Guide",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "microsoft-powertoys-utilities-pack",
+    "microsoft-powertoys",
+    "microsoft-powertoys-pack",
+    "how-to-install-microsoft-powertoys",
+    "how-to-setup-microsoft-powertoys",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "microsoft-utilities"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Microsoft PowerToys Complete Utilities Pack Desktop Setup Guide"
+}
